@@ -1,5 +1,5 @@
 # Next-Day-VWAP-Prediction-Model
-Modelling any stocks' future VWAP. It predicts the next day VWAP of a stock by applying Inverse CDF Function and Monte Carlo algorithm.
+Modelling any stocks' future VWAP. Predicting the next day VWAP of a stock by applying Inverse CDF Function and Monte Carlo algorithm.
 The example product (VWAP model graph) can be seen in the example.png, it only took approximately 10 second to produce 1 VWAP graph with 20,000 simulations.
 
 ## Libraries required
